@@ -1,0 +1,10 @@
+Objective
+To create an annual sales report of US Adidas in EXCEL and analyze the best sales methods and
+actual sales of each states sales from 2020-2021.
+
+Business Problems:
+1. Finding out actual sales amount through specific time period(Months)?
+2. Finding out each states total sales depending upon region?
+3. Finding out the Sales of each retailer?
+4. Finding out the best sales method (Instore, Online, Outlet)?
+5. Finding out which region has more nmber of sales?
